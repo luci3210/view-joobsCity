@@ -2103,7 +2103,7 @@ section,
 .call-to-action .feature-list li {
   display: flex;
   align-items: flex-start;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .call-to-action .feature-list li:last-child {
